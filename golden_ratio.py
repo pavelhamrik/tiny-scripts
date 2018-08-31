@@ -1,3 +1,7 @@
+# ---------------------------------------------- #
+# superseded by the ratio.py script in this repo #
+# ---------------------------------------------- #
+
 import sys
 
 def golden_ratio(dim, orig, direction):
